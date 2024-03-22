@@ -17,12 +17,12 @@ Here are some ideas to get you started:
   
 #### Jang Hyeon Seok 👋 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustjr1672&show_icons=true&theme=shadow_green)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustjr1672&show_icons=true&theme=shadow_green) -->
   
 </div>
 
 ***
-<a href="https://solved.ac/gustjr1672"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gustjr1672&theme=dark"/></a>
+<!-- <a href="https://solved.ac/gustjr1672"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gustjr1672&theme=dark"/></a> -->
 
 - <h3>MY SKILL 💻</h3>
 
